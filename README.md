@@ -2,7 +2,7 @@
 
 # Small Projects
 - [QuickFire](https://quick-fire.uk) -- Website to help applicants for quant roles practice for technical interviews
-- [Latex Notes](https://latexnotes.tech) -- Website to turn ipad/paper notes into neat latex documents and other things 
+- [Latex Notes](https://latexnotes.tech) -- Website to turn ipad/paper notes into neat latex documents and other things (100+ users)
 
 # Competitions
 
